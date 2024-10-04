@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b7177cb1-0b4e-425e-a01e-b45f20ab4f10)# Named Entity Recognition
+
 
 ## AIM
 
@@ -193,8 +193,12 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/5a5bbef9-3c35-452b-b0d7-f5cc77c97533)
+![Screenshot 2024-10-04 104846](https://github.com/user-attachments/assets/7ccd7d75-aa1f-46ed-babc-9eae7961606e)
+
 ![image](https://github.com/user-attachments/assets/bc204cd1-38ba-46ad-a56e-3a1bad68cd0b)
 
+![image](https://github.com/user-attachments/assets/a415f118-7103-4538-b8b0-93c58dbee039)
+![Screenshot 2024-10-04 104928](https://github.com/user-attachments/assets/232d41a3-475d-47f3-8af6-7ef2a8803796)
 
 
 
